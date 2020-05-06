@@ -6,5 +6,6 @@ public class Test {
 
 
         String s2="jerry";
+        String s3="tom";
     }
 }
